@@ -23,6 +23,10 @@
         background: rgb(211, 210, 210);
         border-radius: 20px;
     }
+
+    ::-webkit-scrollbar-thumb::hover {
+        background: rgb(194, 192, 192);
+    }
     
     header {
         background-color: #f0f0f0;
